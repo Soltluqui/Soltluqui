@@ -4,3 +4,6 @@
 ~ hi
 
 Currently studying cybersecurity.
+
+
+[![Soltluqui's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soltluqui)](https://github.com/Soltluqui/github-readme-stats)
