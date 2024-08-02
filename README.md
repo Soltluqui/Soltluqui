@@ -5,11 +5,11 @@
 
 Currently studying cybersecurity.
 ### Skills:
-| - Node.js   |
-| --------    | 
+| - **Node.js**   |
+| --------        | 
 |- **Python**     |
-|- MySQL      |
-|- Golang|    |
+|- **MySQL**      |
+|- **Golang**     |
 
 
 
