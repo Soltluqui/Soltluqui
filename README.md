@@ -12,7 +12,10 @@ Skills:
 - Golang
 _________________________________
 
- <div>
+<div>
+ <img align="middle" src= "https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/soltluq/" alt="https://www.linkedin.com/in/soltluq/"/>
+</div>
+
 <p style="text-align: center;"> [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/soltluq/)](https://www.linkedin.com/in/soltluq/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mail@ysoltluquiluizfernando@gmail.com)](mailto:mail@ysoltluquiluizfernando@gmail.com) </p>
 </div>
