@@ -4,13 +4,12 @@
 ~ hi
 
 Currently studying cybersecurity.
-| **Rust** |
+| **Skills:** |
 | -------- | 
-|### Skills:
-- Node.js
-- Python
-- MySQL
-- Golang|
+|- Node.js |
+|- Python |
+|- MySQL |
+|- Golang| |
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/soltluq/)](https://www.linkedin.com/in/soltluq/)
