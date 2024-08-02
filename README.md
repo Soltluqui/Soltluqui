@@ -11,6 +11,9 @@ Currently studying cybersecurity.
 - MySQL
 - Golang
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/soltluq/)](https://www.linkedin.com/in/soltluq/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mail@ysoltluquiluizfernando@gmail.com)](mailto:mail@ysoltluquiluizfernando@gmail.com)
+
 [![Soltluqui's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soltluqui)](https://github.com/Soltluqui/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Soltluqui&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
