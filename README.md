@@ -10,6 +10,5 @@ Currently studying cybersecurity.
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Soltluqui&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
  <div>
-   <img align="middle" src="https://github-readme-streak-stats.herokuapp.com/?user=Soltluqui" alt="Soltluqui's LangStat" />
   <img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs?username=Soltluqui&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Soltluqui's language" height="192px"  width="500px"/>
 </div>
