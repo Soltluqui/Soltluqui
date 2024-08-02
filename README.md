@@ -4,7 +4,7 @@
 ~ hi
 
 Currently studying cybersecurity.
-
+_________________________________
 Skills:
 - Node.js
 - Python
