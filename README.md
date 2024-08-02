@@ -5,7 +5,7 @@
 
 Currently studying cybersecurity.
 _________________________________
-Skills:
+### Skills:
 - Node.js
 - Python
 - MySQL
@@ -20,7 +20,7 @@ _________________________________
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mail@ysoltluquiluizfernando@gmail.com)](mailto:mail@ysoltluquiluizfernando@gmail.com)
 
 [![Soltluqui's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soltluqui)](https://github.com/Soltluqui/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Soltluqui&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Soltluqui&theme=transparent&hide_border=true&card_width=500&card_height=200)](https://git.io/streak-stats)
 
  <div>
   <img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs?username=Soltluqui&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Soltluqui's language" height="192px"  width="500px"/>
