@@ -4,6 +4,7 @@
 ~ hi
 
 Currently studying cybersecurity.
+### Skills:
 | **Skills:** |
 | --------    | 
 |- Node.js    |
