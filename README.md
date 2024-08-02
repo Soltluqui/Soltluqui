@@ -5,7 +5,7 @@
 
 Currently studying cybersecurity.
 
-‎## Skills:
+# Hi 👋 I am Pratik! 
 - Node.js
 - Python
 - MySQL
