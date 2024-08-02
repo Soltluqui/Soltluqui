@@ -18,9 +18,9 @@ Currently studying cybersecurity.
  
 <br/><br/>
 
-[![Soltluqui's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soltluqui&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Soltluqui's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soltluqui&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Soltluqui&theme=transparent&hide_border=true&card_width=500&card_height=200)](https://git.io/streak-stats)
-
+[![Soltluqui's Github top langs](https://github-readme-stats.vercel.app/api/top-langs?username=Soltluqui&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light)](https://git.io/streak-stats)
  <div>
   <img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs?username=Soltluqui&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Soltluqui's language" height="192px"  width="500px"/>
 </div>
