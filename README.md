@@ -5,17 +5,11 @@
 
 Currently studying cybersecurity.
 ‎ 
-‎ 
-‎ 
-‎ 
-‎ 
-‎ 
-‎ 
-‎ 
-‎ 
-‎ 
-‎ 
-‎ 
+‎## Skills:
+- Node.js
+- Python
+- MySQL
+- Golang
 ‎ 
 ‎ 
 [![Soltluqui's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soltluqui)](https://github.com/Soltluqui/github-readme-stats)
