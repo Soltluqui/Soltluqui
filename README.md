@@ -13,7 +13,7 @@ Skills:
 _________________________________
 
 <div>
- <img align="middle" src= "https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/soltluq/" alt="https://www.linkedin.com/in/soltluq/"/>
+ <img align="right" src= "https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/soltluq/" alt="https://www.linkedin.com/in/soltluq/"/>
 </div>
 
 <p style="text-align: center;"> [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/soltluq/)](https://www.linkedin.com/in/soltluq/)
