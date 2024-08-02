@@ -1,7 +1,7 @@
 <div align="center">
 <img align="left" src="https://images.vexels.com/media/users/3/260938/isolated/lists/fb69cbfbe9d5be3a276c4b5d7f97074e-blue-raven-bird.png">
 
-
+<p align="left">
 ~ hi
 
 Currently studying cybersecurity.
@@ -11,7 +11,7 @@ Currently studying cybersecurity.
 |- **Python**     |
 |- **MySQL**      |
 |- **Golang**     |
-
+</p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/soltluq/)](https://www.linkedin.com/in/soltluq/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mail@ysoltluquiluizfernando@gmail.com)](mailto:mail@ysoltluquiluizfernando@gmail.com)
