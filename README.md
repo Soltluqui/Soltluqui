@@ -18,7 +18,7 @@ Currently studying cybersecurity.
 
 <br/><br/>
 
-[![Soltluqui's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soltluqui)](https://github.com/Soltluqui/github-readme-stats)
+[![Soltluqui's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soltluqui)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Soltluqui&theme=transparent&hide_border=true&card_width=500&card_height=200)](https://git.io/streak-stats)
 
  <div>
