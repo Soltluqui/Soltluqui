@@ -15,9 +15,9 @@ _____________________________________________
 
 <br/><br/>
 
+I am a technical specialist and autonomous service provider dedicated to strengthening organizational security through proactive vulnerability testing and secure automation. Combining hands-on experience in Python scripting with a strong foundation in penetration testing methodologies, I value integrity and the systematic mitigation of risk to protect critical digital assets. My goal is to apply these technical skills and strict attention to detail to help organizations defend against evolving cyber threats and maintain a resilient security posture.
+
 <div align="left">
- 
-[![Soltluqui's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soltluqui&show_icons=true&theme=transparent&hide_title=true&card_width=500&card_height=200)](https://github.com/anuraghazra/github-readme-stats)
-[![Soltluqui's Github top langs](https://github-readme-stats.vercel.app/api/top-langs?username=Soltluqui&langs_count=10&show_icons=true&layout=normal&theme=transparent&hide_title=true&card_width=500&card_height=200)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Soltluqui&theme=transparent&card_width=500&card_height=200)](https://git.io/streak-stats)
+
+[![Soltluqui's GitHub stats](https://github-stats-extended.vercel.app/api?username=Soltluqui)](https://github.com/stats-organization/github-stats-extended)
 </div>
