@@ -17,7 +17,8 @@ _____________________________________________
 
 I am a technical specialist and autonomous service provider dedicated to strengthening organizational security through proactive vulnerability testing and secure automation. Combining hands-on experience in Python scripting with a strong foundation in penetration testing methodologies, I value integrity and the systematic mitigation of risk to protect critical digital assets. My goal is to apply these technical skills and strict attention to detail to help organizations defend against evolving cyber threats and maintain a resilient security posture.
 
+
 <div align="left">
 
-[![Soltluqui's GitHub stats](https://github-stats-extended.vercel.app/api?username=Soltluqui)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Soltluqui&rank_icon=github&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=Soltluqui&rank_icon=github&include_all_commits=true&theme=dark)
 </div>
