@@ -30,7 +30,6 @@ Combining hands-on experience in Python scripting with a strong foundation in pe
 <div align="left">
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Soltluqui&rank_icon=github&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=Soltluqui&rank_icon=github&include_all_commits=true&theme=dark)
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Soltluqui&langs_count=4&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=Soltluqui&langs_count=4&theme=dark)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=alan&layout=compact&hide_title=true&langs_count=6&display_format=percent&theme=dark)](https://wakatime.com/@alan)
 
 </div>
