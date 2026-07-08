@@ -3,7 +3,7 @@
 
 ~ hi
 
-Currently studying cybersecurity.
+Cybersecurity Professional actively applying hands-on training to modern threat landscapes.
 ### Skills:
 | - **Node.js**   |
 | --------        | 
