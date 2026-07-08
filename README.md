@@ -16,9 +16,9 @@ _____________________________________________
 <br/><br/>
 # Hi, I'm Solt 🚀
 
-I am a technical specialist and autonomous service provider dedicated to strengthening organizational security through proactive vulnerability testing and secure automation. 
+I am a Technical Specialist and Cybersecurity Professional dedicated to protecting organizational digital assets and data integrity. 
 
-Combining hands-on experience in Python scripting with a strong foundation in penetration testing methodologies, I value integrity and the systematic mitigation of risk to protect critical digital assets. My goal is to apply these technical skills and strict attention to detail to help organizations defend against evolving cyber threats and maintain a resilient security posture.
+Combining hands-on experience as an autonomous service provider with technical training in Python automation and penetration testing, I enjoy solving complex security problems and analyzing system vulnerabilities. I aim to apply my analytical drive, cloud infrastructure familiarity, and technical reporting skills to establish a proactive and resilient security posture for defensive security teams.
 
 ## 🛠️ Core Technical Skills
 * **Languages & Scripting:** Python, Bash, SQL
