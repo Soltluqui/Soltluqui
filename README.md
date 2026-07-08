@@ -14,7 +14,16 @@ _____________________________________________
 
 
 <br/><br/>
-I am a technical specialist and autonomous service provider dedicated to strengthening organizational security through proactive vulnerability testing and secure automation. Combining hands-on experience in Python scripting with a strong foundation in penetration testing methodologies, I value integrity and the systematic mitigation of risk to protect critical digital assets. My goal is to apply these technical skills and strict attention to detail to help organizations defend against evolving cyber threats and maintain a resilient security posture.
+# Hi, I'm Luiz Fernando 🚀
+
+I am a technical specialist and autonomous service provider dedicated to strengthening organizational security through proactive vulnerability testing and secure automation. 
+
+Combining hands-on experience in Python scripting with a strong foundation in penetration testing methodologies, I value integrity and the systematic mitigation of risk to protect critical digital assets. My goal is to apply these technical skills and strict attention to detail to help organizations defend against evolving cyber threats and maintain a resilient security posture.
+
+## 🛠️ Core Technical Skills
+* **Languages & Scripting:** Python, Bash, SQL
+* **Cybersecurity:** Penetration Testing, Vulnerability Assessment, Security Auditing
+* **Systems:** Linux CLI, Windows Administration
 <br/><br/>
 
 
